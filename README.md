@@ -110,5 +110,5 @@ Hi there! I'm **Muhammad Hamzah Syafiq Lubis**. I’m a passionate Industrial En
 
 Let's stay in touch! Feel free to connect with me on:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/mhamzahsyafiqlubis) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhamzahsyafiqlubis/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m.hamzah.syafiq@gmail.com)
