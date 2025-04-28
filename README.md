@@ -97,17 +97,14 @@ data-warehouse-project/
 ├── LICENSE                             # License information for the repository
 └── requirements.txt                    # Dependencies and requirements for the project
 ```
+
 ---
-
-
 ## 🛡️ License
-
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
+---
 ## 🌟 About Me
-
 Hi there! I'm **Muhammad Hamzah Syafiq Lubis**. I’m a passionate Industrial Engineer specializing in process improvement!
-
 Let's stay in touch! Feel free to connect with me on:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhamzahsyafiqlubis/) 
